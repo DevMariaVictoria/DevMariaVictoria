@@ -34,4 +34,8 @@ Estudando para ser uma Desenvolvedora React-Native!
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DevMariaVictoria&bg_color=000000&color=70c6db&line=2f4b26&point=276100&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cDevMariaVictoria&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&&height=120&section=footer"/>
