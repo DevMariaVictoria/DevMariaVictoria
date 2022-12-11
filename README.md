@@ -28,11 +28,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
+Improving everyday to be a developer!🔥💻
 
-Improving everyday to be a React-Native developer!🔥💻
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DevMariaVictoria&bg_color=000000&color=3ecc72&line=08aabf&point=33727a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevMariaVictoria&bg_color=000000&color=38996c&line=39aca4&point=06212d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
