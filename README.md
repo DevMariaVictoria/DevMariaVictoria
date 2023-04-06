@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&//size=35&center=true&width=1000&lines=Be+welcome,+MY+NAME+is+Maria+Victoria;I'm+18+years+old;I'm+from+Brazil;I'm+graduating+Systems+Development+<3)](https://git.io/typing-sgv)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&//size=35&center=true&width=1000&lines=Be+welcome,+my+name+is+Maria+Victoria;I'm+19+years+old;I'm+from+Brazil;I'm+graduating+Systems+Development+<3)](https://git.io/typing-sgv)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevMariaVictoria&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="DevMariaVIctoria github stats" /> 
