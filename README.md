@@ -35,7 +35,7 @@
 
 Improving everyday to be a developer!🔥💻
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevMariaVictoria&bg_color=000000&color=38996c&line=39aca4&point=06212d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMariaVictoria&theme=dark&show_icons=true)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
