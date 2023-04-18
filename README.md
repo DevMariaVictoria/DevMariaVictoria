@@ -2,10 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&//size=35&center=true&width=1000&lines=Be+welcome,+my+name+is+Maria+Victoria;I'm+19+years+old;I'm+from+Brazil;I'm+graduating+Systems+Development+<3)](https://git.io/typing-sgv)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevMariaVictoria&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="DevMariaVIctoria github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMariaVictoria&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMariaVictoria&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMariaVictoria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/maria-victoria-460697258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
@@ -34,8 +32,6 @@
 
 
 Improving everyday to be a developer!🔥💻
-
-![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMariaVictoria&theme=dark&show_icons=true)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
