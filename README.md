@@ -32,7 +32,7 @@
 
 
 
-Improving everyday to be a developer!🔥💻
+Improving everyday to be a Front-end developer!🔥💻
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
