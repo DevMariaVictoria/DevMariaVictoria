@@ -16,9 +16,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React-Angular](https://img.shields.io/badge/-React.Angular-0D1117?style=for-the-badge&logo=reactangular&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![UX Design](https://img.shields.io/badge/-uxdesign-0D1117?style=for-the-badge&logo=uxdesign&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
 
@@ -28,8 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Vue.JS](https://img.shields.io/badge/-Vue.JS-0D1117?style=for-the-badge&logo=vue.js&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React Native](https://img.shields.io/badge/-react.native-0D1117?style=for-the-badge&logo=react-native3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
+![React-Angular](https://img.shields.io/badge/-React.Angular-0D1117?style=for-the-badge&logo=reactangular&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
 Improving everyday to be a Front-end developer!🔥💻
